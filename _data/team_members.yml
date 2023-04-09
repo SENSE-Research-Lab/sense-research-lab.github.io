@@ -1,0 +1,26 @@
+- name: Zohreh Sharafi
+  photo: Zohreh.jpg
+  info: Assistant Professor
+  email: zohreh dot sharafi at polymtl dot ca
+  number_educ: 3
+  education1: Bachelor of Computer Engineering, University of Tehran
+  education2: Master of Applied Science in Software Engineering, Concordia University
+  education3: Ph.D. in Computer Engineering, Polytechnique Montréal
+  
+  
+- name: Mahta Amini
+  photo: Mahta.jpg
+  info: PhD student, started Sep 2022
+  email: 
+  number_educ: 2
+  education1: 
+  education2: 
+
+- name: Sara Yabesi
+  photo: Sara.jpg
+  info: Master student, started Sep 2022
+  email: 
+  number_educ: 2
+  education1: 
+  education2:
+
