@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "SENSE Lab at Polytechnique Montréal."
 sitemap: false
 permalink: /allnews.html
 ---
